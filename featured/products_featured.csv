@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,supplier_id,unit_cost,unit_price,base_monthly_demand,shelf_life_days,active_flag
+SKU0001,Electrical Product 0001,Automotive,Electrical,SUP070,720.92,973.64,59,365,N
+SKU0002,Wellness Product 0002,Health & Personal Care,Wellness,SUP054,769.53,917.7,22,1095,Y
+SKU0003,Grooming Product 0003,Health & Personal Care,Grooming,SUP100,820.4,1181.13,156,1095,Y
+SKU0004,Furniture Product 0004,Office Supplies,Furniture,SUP078,4057.63,5730.31,168,365,Y
+SKU0005,Printing Product 0005,Office Supplies,Printing,SUP002,863.04,1075.21,188,1095,Y
+SKU0006,Accessories Product 0006,Automotive,Accessories,SUP038,5552.29,7375.1,456,1095,Y
+SKU0007,Cookware Product 0007,Home & Kitchen,Cookware,SUP029,4922.42,5763.02,126,1095,Y
+SKU0008,Wellness Product 0008,Health & Personal Care,Wellness,SUP059,5343.17,7854.7,201,1095,Y
+SKU0009,Printing Product 0009,Office Supplies,Printing,SUP027,3457.31,4995.96,176,1095,Y
+SKU0010,Accessories Product 0010,Electronics,Accessories,SUP097,6478.67,9406.27,77,730,Y
+SKU0011,Accessories Product 0011,Electronics,Accessories,SUP030,363.6,450.71,205,1095,Y
+SKU0012,Grooming Product 0012,Health & Personal Care,Grooming,SUP053,2656.12,3136.58,26,1095,Y
+SKU0013,Audio Product 0013,Electronics,Audio,SUP013,2159.67,2583.48,149,365,Y
+SKU0014,Storage Product 0014,Home & Kitchen,Storage,SUP091,6170.3,7110.66,226,540,Y
+SKU0015,Cookware Product 0015,Home & Kitchen,Cookware,SUP092,3783.45,4401.06,163,180,Y
+SKU0016,Audio Product 0016,Electronics,Audio,SUP080,5255.75,6021.35,225,1095,Y
+SKU0017,Cookware Product 0017,Home & Kitchen,Cookware,SUP036,1173.59,1732.61,27,730,Y
+SKU0018,Electrical Product 0018,Automotive,Electrical,SUP006,6362.83,7296.01,134,1095,Y
+SKU0019,Smart Devices Product 0019,Electronics,Smart Devices,SUP072,3281.27,3831.59,190,1095,Y
+SKU0020,Maintenance Product 0020,Automotive,Maintenance,SUP043,3249.37,4606.99,159,1095,Y
+SKU0021,Wellness Product 0021,Health & Personal Care,Wellness,SUP100,6313.08,8389.37,213,365,Y
+SKU0022,Cookware Product 0022,Home & Kitchen,Cookware,SUP070,2524.3,3530.97,119,1095,Y
+SKU0023,Accessories Product 0023,Electronics,Accessories,SUP054,2632.11,3545.79,168,1095,Y
+SKU0024,Furniture Product 0024,Office Supplies,Furniture,SUP099,3834.11,5511.85,109,180,Y
+SKU0025,Audio Product 0025,Electronics,Audio,SUP081,902.1,1217.7,211,1095,Y
+SKU0026,Cookware Product 0026,Home & Kitchen,Cookware,SUP046,2141.37,2800.84,41,540,Y
+SKU0027,Grooming Product 0027,Health & Personal Care,Grooming,SUP002,1320.4,1817.65,72,730,Y
+SKU0028,Personal Care Product 0028,Health & Personal Care,Personal Care,SUP010,743.08,951.93,36,730,Y
+SKU0029,Maintenance Product 0029,Automotive,Maintenance,SUP045,5640.65,7020.26,688,540,Y
+SKU0030,Cookware Product 0030,Home & Kitchen,Cookware,SUP057,3863.51,4977.57,67,365,Y
+SKU0031,Maintenance Product 0031,Automotive,Maintenance,SUP004,2382.68,2814.18,86,365,Y
+SKU0032,Accessories Product 0032,Automotive,Accessories,SUP013,2703.66,3803.42,203,365,Y
+SKU0033,Appliances Product 0033,Home & Kitchen,Appliances,SUP071,2850.35,3459.91,96,730,Y
+SKU0034,Printing Product 0034,Office Supplies,Printing,SUP076,4144.82,4871.29,47,540,Y
+SKU0035,Smart Devices Product 0035,Electronics,Smart Devices,SUP003,6029.86,7288.21,19,365,Y
+SKU0036,Smart Devices Product 0036,Electronics,Smart Devices,SUP051,6068.45,8636.29,66,1095,Y
+SKU0037,Furniture Product 0037,Office Supplies,Furniture,SUP009,2593.38,3212.87,220,1095,Y
+SKU0038,Audio Product 0038,Electronics,Audio,SUP073,2193.86,2998.96,138,730,Y
+SKU0039,Smart Devices Product 0039,Electronics,Smart Devices,SUP084,2975.72,4250.24,476,1095,Y
+SKU0040,Grooming Product 0040,Health & Personal Care,Grooming,SUP087,3726.14,4277.56,63,540,Y
+SKU0041,Wellness Product 0041,Health & Personal Care,Wellness,SUP060,3044.87,4248.84,94,1095,Y
+SKU0042,Printing Product 0042,Office Supplies,Printing,SUP063,4309.2,5303.59,51,180,Y
+SKU0043,Personal Care Product 0043,Health & Personal Care,Personal Care,SUP093,3639.24,4359.75,312,1095,Y
+SKU0044,Personal Care Product 0044,Health & Personal Care,Personal Care,SUP062,2138.99,2926.15,141,1095,Y
+SKU0045,Audio Product 0045,Electronics,Audio,SUP045,2299.59,3328.72,196,1095,Y
+SKU0046,Storage Product 0046,Home & Kitchen,Storage,SUP076,2510.57,3078.48,97,730,Y
+SKU0047,Cookware Product 0047,Home & Kitchen,Cookware,SUP060,687.59,910.91,188,730,Y
+SKU0048,Accessories Product 0048,Electronics,Accessories,SUP085,1146.12,1403.24,155,540,Y
+SKU0049,Electrical Product 0049,Automotive,Electrical,SUP053,4722.39,6231.4,80,1095,Y
+SKU0050,Cookware Product 0050,Home & Kitchen,Cookware,SUP087,2578.0,3464.5,220,1095,Y
+SKU0051,Stationery Product 0051,Office Supplies,Stationery,SUP005,1457.34,1952.43,112,1095,Y
+SKU0052,Audio Product 0052,Electronics,Audio,SUP004,3692.36,4964.29,48,730,Y
+SKU0053,Accessories Product 0053,Electronics,Accessories,SUP010,4930.56,5761.99,231,180,Y
+SKU0054,Personal Care Product 0054,Health & Personal Care,Personal Care,SUP056,1732.65,2373.17,220,730,N
+SKU0055,Smart Devices Product 0055,Electronics,Smart Devices,SUP071,5387.99,7343.35,26,365,Y
+SKU0056,Accessories Product 0056,Electronics,Accessories,SUP022,6034.58,8241.62,218,365,Y
+SKU0057,Storage Product 0057,Home & Kitchen,Storage,SUP016,3915.27,4489.5,228,540,Y
+SKU0058,Printing Product 0058,Office Supplies,Printing,SUP087,4374.64,5603.31,201,1095,Y
+SKU0059,Furniture Product 0059,Office Supplies,Furniture,SUP076,417.54,529.13,72,365,Y
+SKU0060,Furniture Product 0060,Office Supplies,Furniture,SUP065,6150.24,7080.26,157,365,Y
+SKU0061,Smart Devices Product 0061,Electronics,Smart Devices,SUP049,2599.75,3119.84,136,180,Y
+SKU0062,Cookware Product 0062,Home & Kitchen,Cookware,SUP043,6011.44,7687.11,154,1095,Y
+SKU0063,Wellness Product 0063,Health & Personal Care,Wellness,SUP003,3797.04,5268.19,153,1095,Y
+SKU0064,Printing Product 0064,Office Supplies,Printing,SUP019,109.65,132.17,158,180,Y
+SKU0065,Furniture Product 0065,Office Supplies,Furniture,SUP090,327.44,464.54,130,180,Y
+SKU0066,Maintenance Product 0066,Automotive,Maintenance,SUP034,4448.29,5856.12,170,730,Y
+SKU0067,Electrical Product 0067,Automotive,Electrical,SUP071,3692.33,5146.19,133,540,Y
+SKU0068,Smart Devices Product 0068,Electronics,Smart Devices,SUP071,250.34,322.97,18,730,Y
+SKU0069,Appliances Product 0069,Home & Kitchen,Appliances,SUP031,4853.01,6307.51,22,730,Y
+SKU0070,Furniture Product 0070,Office Supplies,Furniture,SUP021,5550.77,7455.23,230,1095,Y
+SKU0071,Appliances Product 0071,Home & Kitchen,Appliances,SUP070,3267.0,4750.44,219,540,Y
+SKU0072,Grooming Product 0072,Health & Personal Care,Grooming,SUP010,3070.16,3982.16,292,1095,Y
+SKU0073,Furniture Product 0073,Office Supplies,Furniture,SUP050,115.14,150.87,54,180,Y
+SKU0074,Maintenance Product 0074,Automotive,Maintenance,SUP089,5130.29,6857.76,380,1095,Y
+SKU0075,Personal Care Product 0075,Health & Personal Care,Personal Care,SUP072,2203.2,3052.55,47,1095,Y
+SKU0076,Furniture Product 0076,Office Supplies,Furniture,SUP077,5721.66,6556.26,99,1095,Y
+SKU0077,Grooming Product 0077,Health & Personal Care,Grooming,SUP009,2475.05,3231.54,89,730,Y
+SKU0078,Furniture Product 0078,Office Supplies,Furniture,SUP020,3707.8,4795.57,17,365,Y
+SKU0079,Wellness Product 0079,Health & Personal Care,Wellness,SUP028,1815.59,2635.89,392,1095,Y
+SKU0080,Appliances Product 0080,Home & Kitchen,Appliances,SUP030,1110.98,1441.68,129,1095,Y
+SKU0081,Printing Product 0081,Office Supplies,Printing,SUP020,5054.91,6513.73,86,365,Y
+SKU0082,Stationery Product 0082,Office Supplies,Stationery,SUP098,3268.11,4792.33,129,730,Y
+SKU0083,Audio Product 0083,Electronics,Audio,SUP017,3524.25,4518.82,15,730,Y
+SKU0084,Storage Product 0084,Home & Kitchen,Storage,SUP071,6277.97,7440.14,113,1095,Y
+SKU0085,Wellness Product 0085,Health & Personal Care,Wellness,SUP059,6266.18,7507.45,131,1095,Y
+SKU0086,Furniture Product 0086,Office Supplies,Furniture,SUP062,5573.22,6432.99,91,730,Y
+SKU0087,Smart Devices Product 0087,Electronics,Smart Devices,SUP022,1284.45,1438.85,201,730,Y
+SKU0088,Cookware Product 0088,Home & Kitchen,Cookware,SUP031,3895.23,4968.37,71,540,Y
+SKU0089,Audio Product 0089,Electronics,Audio,SUP061,5717.71,7987.23,46,540,Y
+SKU0090,Audio Product 0090,Electronics,Audio,SUP030,2484.06,3438.06,133,180,Y
+SKU0091,Personal Care Product 0091,Health & Personal Care,Personal Care,SUP070,729.1,825.03,214,1095,Y
+SKU0092,Appliances Product 0092,Home & Kitchen,Appliances,SUP004,5286.38,7005.48,99,730,Y
+SKU0093,Storage Product 0093,Home & Kitchen,Storage,SUP008,3172.92,3729.9,25,730,Y
+SKU0094,Stationery Product 0094,Office Supplies,Stationery,SUP073,3703.4,5402.47,233,365,Y
+SKU0095,Audio Product 0095,Electronics,Audio,SUP062,6385.37,7536.34,114,365,Y
+SKU0096,Storage Product 0096,Home & Kitchen,Storage,SUP005,3978.3,5353.16,53,730,Y
+SKU0097,Electrical Product 0097,Automotive,Electrical,SUP090,2808.37,3475.21,153,365,Y
+SKU0098,Printing Product 0098,Office Supplies,Printing,SUP001,2455.3,3317.02,86,180,Y
+SKU0099,Personal Care Product 0099,Health & Personal Care,Personal Care,SUP096,2761.12,3502.24,226,1095,Y
+SKU0100,Stationery Product 0100,Office Supplies,Stationery,SUP073,840.12,1170.68,81,540,Y
+SKU0101,Printing Product 0101,Office Supplies,Printing,SUP099,5182.3,6234.54,138,540,Y
+SKU0102,Electrical Product 0102,Automotive,Electrical,SUP095,5458.14,7892.93,137,730,Y
+SKU0103,Wellness Product 0103,Health & Personal Care,Wellness,SUP032,1905.83,2477.72,69,1095,Y
+SKU0104,Accessories Product 0104,Automotive,Accessories,SUP076,2030.37,2826.67,127,540,Y
+SKU0105,Personal Care Product 0105,Health & Personal Care,Personal Care,SUP022,5693.23,8117.99,39,1095,Y
+SKU0106,Accessories Product 0106,Automotive,Accessories,SUP048,233.89,346.06,159,1095,Y
+SKU0107,Personal Care Product 0107,Health & Personal Care,Personal Care,SUP025,3421.34,4107.73,185,1095,Y
+SKU0108,Audio Product 0108,Electronics,Audio,SUP049,3056.8,3739.33,228,730,Y
+SKU0109,Accessories Product 0109,Automotive,Accessories,SUP088,4510.61,5458.54,88,1095,Y
+SKU0110,Appliances Product 0110,Home & Kitchen,Appliances,SUP044,1128.97,1371.28,316,730,Y
+SKU0111,Stationery Product 0111,Office Supplies,Stationery,SUP010,4370.68,5811.61,138,730,Y
+SKU0112,Printing Product 0112,Office Supplies,Printing,SUP033,2498.63,3692.15,170,730,Y
+SKU0113,Personal Care Product 0113,Health & Personal Care,Personal Care,SUP079,4052.15,5983.0,476,540,Y
+SKU0114,Personal Care Product 0114,Health & Personal Care,Personal Care,SUP053,337.41,441.89,20,365,Y
+SKU0115,Storage Product 0115,Home & Kitchen,Storage,SUP057,3044.29,4109.94,68,730,Y
+SKU0116,Accessories Product 0116,Automotive,Accessories,SUP044,3432.85,4907.57,74,365,Y
+SKU0117,Electrical Product 0117,Automotive,Electrical,SUP030,1455.98,2119.7,72,730,Y
+SKU0118,Cookware Product 0118,Home & Kitchen,Cookware,SUP060,976.38,1165.2,119,730,Y
+SKU0119,Accessories Product 0119,Electronics,Accessories,SUP064,1290.01,1690.27,211,1095,Y
+SKU0120,Smart Devices Product 0120,Electronics,Smart Devices,SUP090,2289.39,3250.52,21,180,Y
+SKU0121,Electrical Product 0121,Automotive,Electrical,SUP062,701.52,862.28,792,730,Y
+SKU0122,Printing Product 0122,Office Supplies,Printing,SUP100,6161.79,7876.81,153,730,Y
+SKU0123,Grooming Product 0123,Health & Personal Care,Grooming,SUP083,2680.06,3952.62,459,180,Y
+SKU0124,Furniture Product 0124,Office Supplies,Furniture,SUP008,5273.58,7776.51,167,365,Y
+SKU0125,Personal Care Product 0125,Health & Personal Care,Personal Care,SUP040,6335.76,9162.77,40,365,Y
+SKU0126,Appliances Product 0126,Home & Kitchen,Appliances,SUP039,598.32,842.1,183,365,Y
+SKU0127,Accessories Product 0127,Automotive,Accessories,SUP001,4263.72,5188.47,70,540,Y
+SKU0128,Accessories Product 0128,Electronics,Accessories,SUP019,5674.45,7010.82,131,730,Y
+SKU0129,Stationery Product 0129,Office Supplies,Stationery,SUP077,4151.79,5468.0,167,730,Y
+SKU0130,Accessories Product 0130,Automotive,Accessories,SUP036,2834.35,3746.67,150,180,Y
+SKU0131,Personal Care Product 0131,Health & Personal Care,Personal Care,SUP015,2847.51,3707.4,87,365,Y
+SKU0132,Electrical Product 0132,Automotive,Electrical,SUP029,310.47,418.89,312,365,Y
+SKU0133,Accessories Product 0133,Electronics,Accessories,SUP028,3512.14,4449.87,488,730,Y
+SKU0134,Cookware Product 0134,Home & Kitchen,Cookware,SUP018,6458.55,8975.46,24,540,Y
+SKU0135,Accessories Product 0135,Electronics,Accessories,SUP011,6234.9,7731.76,178,730,Y
+SKU0136,Smart Devices Product 0136,Electronics,Smart Devices,SUP077,339.36,420.48,37,365,Y
+SKU0137,Maintenance Product 0137,Automotive,Maintenance,SUP083,4611.22,5375.77,118,180,Y
+SKU0138,Accessories Product 0138,Automotive,Accessories,SUP050,2017.33,2396.46,162,1095,Y
+SKU0139,Maintenance Product 0139,Automotive,Maintenance,SUP062,5877.19,8381.98,33,365,Y
+SKU0140,Grooming Product 0140,Health & Personal Care,Grooming,SUP092,369.64,473.38,238,365,Y
+SKU0141,Electrical Product 0141,Automotive,Electrical,SUP085,6088.31,7318.35,99,365,Y
+SKU0142,Electrical Product 0142,Automotive,Electrical,SUP004,5456.59,7603.01,18,1095,Y
+SKU0143,Smart Devices Product 0143,Electronics,Smart Devices,SUP096,834.38,1100.91,163,730,N
+SKU0144,Accessories Product 0144,Electronics,Accessories,SUP007,464.07,523.29,140,730,Y
+SKU0145,Furniture Product 0145,Office Supplies,Furniture,SUP003,5438.82,6710.91,318,1095,Y
+SKU0146,Grooming Product 0146,Health & Personal Care,Grooming,SUP041,1079.96,1278.37,183,365,Y
+SKU0147,Audio Product 0147,Electronics,Audio,SUP075,3514.05,4765.45,122,1095,Y
+SKU0148,Printing Product 0148,Office Supplies,Printing,SUP009,5959.08,7264.19,201,365,Y
+SKU0149,Electrical Product 0149,Automotive,Electrical,SUP030,3723.02,4256.83,98,730,Y
+SKU0150,Smart Devices Product 0150,Electronics,Smart Devices,SUP027,2630.24,2997.89,137,730,Y
+SKU0151,Appliances Product 0151,Home & Kitchen,Appliances,SUP040,2937.0,3904.51,50,540,Y
+SKU0152,Wellness Product 0152,Health & Personal Care,Wellness,SUP099,485.21,547.23,462,1095,Y
+SKU0153,Electrical Product 0153,Automotive,Electrical,SUP034,6299.39,8980.19,73,365,Y
+SKU0154,Accessories Product 0154,Electronics,Accessories,SUP021,2074.4,2439.38,171,1095,Y
+SKU0155,Personal Care Product 0155,Health & Personal Care,Personal Care,SUP013,1295.71,1734.13,195,540,Y
+SKU0156,Cookware Product 0156,Home & Kitchen,Cookware,SUP020,1916.42,2453.19,208,730,Y
+SKU0157,Grooming Product 0157,Health & Personal Care,Grooming,SUP014,6271.28,8023.64,672,1095,Y
+SKU0158,Cookware Product 0158,Home & Kitchen,Cookware,SUP058,685.32,785.27,42,180,Y
+SKU0159,Printing Product 0159,Office Supplies,Printing,SUP043,5648.09,7958.11,46,1095,Y
+SKU0160,Cookware Product 0160,Home & Kitchen,Cookware,SUP050,4624.36,6666.01,223,730,Y
+SKU0161,Storage Product 0161,Home & Kitchen,Storage,SUP084,5408.72,6079.22,200,1095,Y
+SKU0162,Wellness Product 0162,Health & Personal Care,Wellness,SUP059,6345.26,7514.68,20,365,Y
+SKU0163,Accessories Product 0163,Electronics,Accessories,SUP016,5486.63,7930.41,79,730,Y
+SKU0164,Smart Devices Product 0164,Electronics,Smart Devices,SUP038,6136.51,8086.8,203,1095,Y
+SKU0165,Storage Product 0165,Home & Kitchen,Storage,SUP032,894.92,1050.65,94,730,Y
+SKU0166,Electrical Product 0166,Automotive,Electrical,SUP083,5188.96,6190.45,96,365,Y
+SKU0167,Accessories Product 0167,Automotive,Accessories,SUP031,3583.24,4864.59,177,365,Y
+SKU0168,Personal Care Product 0168,Health & Personal Care,Personal Care,SUP014,3569.24,4928.89,58,1095,Y
+SKU0169,Storage Product 0169,Home & Kitchen,Storage,SUP074,5851.08,7815.84,94,180,Y
+SKU0170,Storage Product 0170,Home & Kitchen,Storage,SUP043,6318.98,9245.51,15,1095,Y
+SKU0171,Audio Product 0171,Electronics,Audio,SUP010,4605.06,5976.74,150,1095,Y
+SKU0172,Printing Product 0172,Office Supplies,Printing,SUP069,3180.46,3905.92,115,180,Y
+SKU0173,Personal Care Product 0173,Health & Personal Care,Personal Care,SUP022,3010.11,3888.47,210,365,Y
+SKU0174,Electrical Product 0174,Automotive,Electrical,SUP087,2560.31,3199.06,270,1095,Y
+SKU0175,Stationery Product 0175,Office Supplies,Stationery,SUP084,2401.47,2883.66,61,180,Y
+SKU0176,Storage Product 0176,Home & Kitchen,Storage,SUP037,2593.47,2947.6,52,730,Y
+SKU0177,Wellness Product 0177,Health & Personal Care,Wellness,SUP056,656.22,818.17,60,1095,Y
+SKU0178,Furniture Product 0178,Office Supplies,Furniture,SUP057,577.14,794.21,116,730,Y
+SKU0179,Accessories Product 0179,Electronics,Accessories,SUP066,5086.76,5730.94,34,540,Y
+SKU0180,Cookware Product 0180,Home & Kitchen,Cookware,SUP007,2943.79,3762.47,105,1095,Y
+SKU0181,Smart Devices Product 0181,Electronics,Smart Devices,SUP033,6054.99,8185.4,207,730,Y
+SKU0182,Audio Product 0182,Electronics,Audio,SUP018,4010.46,5373.0,187,365,Y
+SKU0183,Accessories Product 0183,Electronics,Accessories,SUP070,305.83,428.04,158,730,N
+SKU0184,Cookware Product 0184,Home & Kitchen,Cookware,SUP007,1091.3,1540.68,215,1095,Y
+SKU0185,Furniture Product 0185,Office Supplies,Furniture,SUP052,1401.36,1928.57,570,1095,Y
+SKU0186,Appliances Product 0186,Home & Kitchen,Appliances,SUP073,6344.23,7340.32,161,730,Y
+SKU0187,Appliances Product 0187,Home & Kitchen,Appliances,SUP095,1484.08,1915.96,209,540,Y
+SKU0188,Wellness Product 0188,Health & Personal Care,Wellness,SUP029,3391.15,4534.73,42,365,Y
+SKU0189,Maintenance Product 0189,Automotive,Maintenance,SUP001,6090.26,7359.49,199,365,Y
+SKU0190,Furniture Product 0190,Office Supplies,Furniture,SUP073,6353.58,7213.34,81,180,Y
+SKU0191,Cookware Product 0191,Home & Kitchen,Cookware,SUP001,1597.43,1917.7,179,1095,Y
+SKU0192,Grooming Product 0192,Health & Personal Care,Grooming,SUP007,395.34,507.52,220,365,Y
+SKU0193,Audio Product 0193,Electronics,Audio,SUP100,1066.12,1352.92,126,1095,Y
+SKU0194,Appliances Product 0194,Home & Kitchen,Appliances,SUP087,486.57,575.9,102,365,Y
+SKU0195,Grooming Product 0195,Health & Personal Care,Grooming,SUP071,1332.7,1888.16,98,540,Y
+SKU0196,Printing Product 0196,Office Supplies,Printing,SUP084,3730.22,5420.93,106,730,Y
+SKU0197,Accessories Product 0197,Automotive,Accessories,SUP008,5937.92,7080.88,225,540,Y
+SKU0198,Printing Product 0198,Office Supplies,Printing,SUP009,3528.95,5133.37,227,1095,Y
+SKU0199,Furniture Product 0199,Office Supplies,Furniture,SUP031,4098.85,4617.07,142,1095,Y
+SKU0200,Appliances Product 0200,Home & Kitchen,Appliances,SUP003,1375.99,1999.29,228,1095,Y
+SKU0201,Cookware Product 0201,Home & Kitchen,Cookware,SUP089,5219.75,7634.9,339,365,Y
+SKU0202,Appliances Product 0202,Home & Kitchen,Appliances,SUP006,4046.2,4549.3,107,1095,Y
+SKU0203,Audio Product 0203,Electronics,Audio,SUP055,5627.76,7848.96,203,365,Y
+SKU0204,Grooming Product 0204,Health & Personal Care,Grooming,SUP086,6171.57,9067.72,165,1095,Y
+SKU0205,Cookware Product 0205,Home & Kitchen,Cookware,SUP074,2313.52,3345.64,132,730,N
+SKU0206,Printing Product 0206,Office Supplies,Printing,SUP024,661.52,972.07,117,540,Y
+SKU0207,Accessories Product 0207,Automotive,Accessories,SUP048,1530.46,2017.32,519,365,Y
+SKU0208,Electrical Product 0208,Automotive,Electrical,SUP055,2890.94,3319.19,368,180,Y
+SKU0209,Appliances Product 0209,Home & Kitchen,Appliances,SUP077,6151.35,8771.36,125,365,Y
+SKU0210,Stationery Product 0210,Office Supplies,Stationery,SUP043,2508.75,3364.18,22,1095,Y
+SKU0211,Personal Care Product 0211,Health & Personal Care,Personal Care,SUP029,5028.36,6744.57,37,1095,Y
+SKU0212,Electrical Product 0212,Automotive,Electrical,SUP080,3549.86,4509.07,47,1095,Y
+SKU0213,Maintenance Product 0213,Automotive,Maintenance,SUP089,1253.63,1662.14,118,365,Y
+SKU0214,Wellness Product 0214,Health & Personal Care,Wellness,SUP049,2139.11,2514.07,153,730,Y
+SKU0215,Accessories Product 0215,Automotive,Accessories,SUP003,4273.49,5924.41,195,540,Y
+SKU0216,Accessories Product 0216,Electronics,Accessories,SUP051,4399.72,5046.51,67,730,Y
+SKU0217,Furniture Product 0217,Office Supplies,Furniture,SUP089,2871.16,3970.01,573,540,Y
+SKU0218,Smart Devices Product 0218,Electronics,Smart Devices,SUP099,1547.9,2206.74,164,540,Y
+SKU0219,Stationery Product 0219,Office Supplies,Stationery,SUP041,4714.64,6082.3,26,730,Y
+SKU0220,Wellness Product 0220,Health & Personal Care,Wellness,SUP016,1164.16,1517.53,94,365,Y
+SKU0221,Printing Product 0221,Office Supplies,Printing,SUP058,6093.42,7509.51,83,730,Y
+SKU0222,Appliances Product 0222,Home & Kitchen,Appliances,SUP084,1286.34,1889.64,214,1095,Y
+SKU0223,Audio Product 0223,Electronics,Audio,SUP095,768.95,1064.17,222,365,Y
+SKU0224,Grooming Product 0224,Health & Personal Care,Grooming,SUP006,3274.9,4102.91,199,1095,Y
+SKU0225,Accessories Product 0225,Electronics,Accessories,SUP030,3415.51,4040.31,133,730,Y
+SKU0226,Accessories Product 0226,Electronics,Accessories,SUP048,3342.6,4007.94,250,1095,Y
+SKU0227,Storage Product 0227,Home & Kitchen,Storage,SUP010,2883.41,3710.98,85,1095,Y
+SKU0228,Smart Devices Product 0228,Electronics,Smart Devices,SUP089,6466.71,9437.03,752,1095,Y
+SKU0229,Appliances Product 0229,Home & Kitchen,Appliances,SUP012,3201.92,4432.39,34,1095,Y
+SKU0230,Printing Product 0230,Office Supplies,Printing,SUP067,3148.42,3770.19,76,1095,Y
+SKU0231,Cookware Product 0231,Home & Kitchen,Cookware,SUP092,2787.74,3984.91,45,730,Y
+SKU0232,Audio Product 0232,Electronics,Audio,SUP069,509.02,639.41,126,540,Y
+SKU0233,Smart Devices Product 0233,Electronics,Smart Devices,SUP077,3886.78,5544.96,82,365,Y
+SKU0234,Appliances Product 0234,Home & Kitchen,Appliances,SUP027,1543.55,1863.08,59,730,Y
+SKU0235,Accessories Product 0235,Electronics,Accessories,SUP083,4173.45,5603.77,396,180,Y
+SKU0236,Electrical Product 0236,Automotive,Electrical,SUP042,406.35,590.67,208,365,Y
+SKU0237,Audio Product 0237,Electronics,Audio,SUP007,6380.51,7738.55,140,180,Y
+SKU0238,Appliances Product 0238,Home & Kitchen,Appliances,SUP037,3091.01,4232.99,200,730,Y
+SKU0239,Cookware Product 0239,Home & Kitchen,Cookware,SUP035,5837.17,8612.35,220,365,Y
+SKU0240,Storage Product 0240,Home & Kitchen,Storage,SUP053,3133.1,3678.93,217,730,Y
+SKU0241,Audio Product 0241,Electronics,Audio,SUP027,467.32,538.27,93,1095,Y
+SKU0242,Accessories Product 0242,Electronics,Accessories,SUP047,5358.61,7302.23,212,1095,Y
+SKU0243,Grooming Product 0243,Health & Personal Care,Grooming,SUP043,4241.34,5269.04,219,540,Y
+SKU0244,Audio Product 0244,Electronics,Audio,SUP033,5098.88,5841.52,230,730,Y
+SKU0245,Printing Product 0245,Office Supplies,Printing,SUP070,2828.85,3652.36,93,730,Y
+SKU0246,Printing Product 0246,Office Supplies,Printing,SUP031,4175.55,5809.68,66,730,Y
+SKU0247,Cookware Product 0247,Home & Kitchen,Cookware,SUP077,5576.99,6818.67,146,1095,Y
+SKU0248,Appliances Product 0248,Home & Kitchen,Appliances,SUP026,4131.44,5125.53,224,365,Y
+SKU0249,Accessories Product 0249,Automotive,Accessories,SUP087,2312.06,3293.42,217,1095,Y
+SKU0250,Grooming Product 0250,Health & Personal Care,Grooming,SUP037,4333.44,5664.78,143,365,Y
+SKU0251,Cookware Product 0251,Home & Kitchen,Cookware,SUP005,4393.3,6253.35,96,1095,Y
+SKU0252,Cookware Product 0252,Home & Kitchen,Cookware,SUP015,6246.97,8000.5,110,730,Y
+SKU0253,Appliances Product 0253,Home & Kitchen,Appliances,SUP081,2461.26,3601.0,175,365,Y
+SKU0254,Furniture Product 0254,Office Supplies,Furniture,SUP088,2809.02,3804.22,141,1095,Y
+SKU0255,Accessories Product 0255,Automotive,Accessories,SUP022,5293.83,6149.97,92,365,Y
+SKU0256,Smart Devices Product 0256,Electronics,Smart Devices,SUP061,3326.99,4786.32,92,1095,Y
+SKU0257,Storage Product 0257,Home & Kitchen,Storage,SUP058,4808.8,6232.86,28,730,Y
+SKU0258,Grooming Product 0258,Health & Personal Care,Grooming,SUP014,3031.33,3549.66,79,365,Y
+SKU0259,Audio Product 0259,Electronics,Audio,SUP046,1463.48,1719.54,165,180,Y
+SKU0260,Printing Product 0260,Office Supplies,Printing,SUP070,4864.21,6651.87,69,1095,Y
+SKU0261,Accessories Product 0261,Automotive,Accessories,SUP097,922.02,1048.39,238,540,Y
+SKU0262,Smart Devices Product 0262,Electronics,Smart Devices,SUP085,1354.91,1657.29,33,1095,Y
+SKU0263,Audio Product 0263,Electronics,Audio,SUP010,4104.22,4803.27,147,1095,N
+SKU0264,Accessories Product 0264,Electronics,Accessories,SUP024,4877.47,6237.25,126,1095,N
+SKU0265,Wellness Product 0265,Health & Personal Care,Wellness,SUP044,5823.9,7391.5,202,540,Y
+SKU0266,Audio Product 0266,Electronics,Audio,SUP016,1830.01,2393.43,214,1095,Y
+SKU0267,Smart Devices Product 0267,Electronics,Smart Devices,SUP058,790.85,965.37,137,1095,Y
+SKU0268,Smart Devices Product 0268,Electronics,Smart Devices,SUP001,6217.82,7035.69,156,365,Y
+SKU0269,Audio Product 0269,Electronics,Audio,SUP012,1071.4,1436.94,172,540,Y
+SKU0270,Printing Product 0270,Office Supplies,Printing,SUP005,1349.02,1692.4,132,365,Y
+SKU0271,Appliances Product 0271,Home & Kitchen,Appliances,SUP030,1950.34,2641.7,56,540,Y
+SKU0272,Stationery Product 0272,Office Supplies,Stationery,SUP077,3478.69,4032.22,111,1095,Y
+SKU0273,Stationery Product 0273,Office Supplies,Stationery,SUP018,5747.74,6465.98,69,730,Y
+SKU0274,Grooming Product 0274,Health & Personal Care,Grooming,SUP099,4962.71,6001.83,119,730,Y
+SKU0275,Audio Product 0275,Electronics,Audio,SUP027,4626.37,5941.91,153,540,Y
+SKU0276,Grooming Product 0276,Health & Personal Care,Grooming,SUP005,1204.66,1520.12,62,365,Y
+SKU0277,Stationery Product 0277,Office Supplies,Stationery,SUP034,2376.32,3354.67,71,540,Y
+SKU0278,Audio Product 0278,Electronics,Audio,SUP075,3151.36,3958.18,200,1095,Y
+SKU0279,Maintenance Product 0279,Automotive,Maintenance,SUP011,1026.47,1345.66,99,730,Y
+SKU0280,Personal Care Product 0280,Health & Personal Care,Personal Care,SUP008,1835.42,2447.84,59,540,Y
+SKU0281,Storage Product 0281,Home & Kitchen,Storage,SUP085,2059.5,2322.83,175,1095,Y
+SKU0282,Grooming Product 0282,Health & Personal Care,Grooming,SUP060,897.11,1171.13,176,180,Y
+SKU0283,Appliances Product 0283,Home & Kitchen,Appliances,SUP035,3612.54,4494.5,200,540,Y
+SKU0284,Printing Product 0284,Office Supplies,Printing,SUP076,4606.28,5857.63,185,365,Y
+SKU0285,Personal Care Product 0285,Health & Personal Care,Personal Care,SUP085,528.96,611.53,238,1095,Y
+SKU0286,Storage Product 0286,Home & Kitchen,Storage,SUP036,3168.81,4442.09,144,1095,Y
+SKU0287,Electrical Product 0287,Automotive,Electrical,SUP057,5101.8,7444.88,79,730,Y
+SKU0288,Storage Product 0288,Home & Kitchen,Storage,SUP002,4882.1,5507.09,209,180,Y
+SKU0289,Electrical Product 0289,Automotive,Electrical,SUP031,5312.77,7100.49,74,365,Y
+SKU0290,Furniture Product 0290,Office Supplies,Furniture,SUP060,2957.7,4125.94,80,730,Y
+SKU0291,Accessories Product 0291,Electronics,Accessories,SUP020,5347.98,6538.07,201,540,Y
+SKU0292,Appliances Product 0292,Home & Kitchen,Appliances,SUP100,1625.63,2281.6,213,1095,Y
+SKU0293,Appliances Product 0293,Home & Kitchen,Appliances,SUP098,2396.4,3229.5,182,1095,Y
+SKU0294,Smart Devices Product 0294,Electronics,Smart Devices,SUP026,1212.2,1763.14,179,730,Y
+SKU0295,Smart Devices Product 0295,Electronics,Smart Devices,SUP040,3081.25,4539.18,222,1095,Y
+SKU0296,Storage Product 0296,Home & Kitchen,Storage,SUP019,2597.03,2948.26,194,1095,Y
+SKU0297,Audio Product 0297,Electronics,Audio,SUP051,1626.75,2082.53,16,730,Y
+SKU0298,Accessories Product 0298,Electronics,Accessories,SUP013,4906.43,6461.35,164,730,N
+SKU0299,Accessories Product 0299,Automotive,Accessories,SUP040,2094.9,2456.96,53,1095,Y
+SKU0300,Electrical Product 0300,Automotive,Electrical,SUP056,1831.4,2272.88,205,365,Y
+SKU0301,Accessories Product 0301,Automotive,Accessories,SUP062,920.32,1357.98,30,1095,Y
+SKU0302,Appliances Product 0302,Home & Kitchen,Appliances,SUP060,2897.24,3261.84,238,365,Y
+SKU0303,Grooming Product 0303,Health & Personal Care,Grooming,SUP023,2025.03,2597.92,54,730,Y
+SKU0304,Printing Product 0304,Office Supplies,Printing,SUP080,2450.73,3488.26,109,1095,Y
+SKU0305,Smart Devices Product 0305,Electronics,Smart Devices,SUP070,1595.1,1972.51,67,730,Y
+SKU0306,Audio Product 0306,Electronics,Audio,SUP076,4979.46,6437.08,198,730,Y
+SKU0307,Accessories Product 0307,Automotive,Accessories,SUP047,6050.62,8907.1,103,730,Y
+SKU0308,Audio Product 0308,Electronics,Audio,SUP090,3276.72,4230.1,182,365,Y
+SKU0309,Stationery Product 0309,Office Supplies,Stationery,SUP039,4208.05,4911.35,30,365,Y
+SKU0310,Grooming Product 0310,Health & Personal Care,Grooming,SUP081,5647.25,6430.07,116,540,Y
+SKU0311,Audio Product 0311,Electronics,Audio,SUP021,6492.49,9481.31,219,730,Y
+SKU0312,Audio Product 0312,Electronics,Audio,SUP025,4018.78,4885.6,223,730,Y
+SKU0313,Grooming Product 0313,Health & Personal Care,Grooming,SUP053,5792.38,7538.57,183,365,Y
+SKU0314,Stationery Product 0314,Office Supplies,Stationery,SUP056,5913.26,6815.93,103,1095,Y
+SKU0315,Audio Product 0315,Electronics,Audio,SUP075,5161.12,6567.61,107,540,N
+SKU0316,Wellness Product 0316,Health & Personal Care,Wellness,SUP030,3039.18,4421.51,142,730,Y
+SKU0317,Wellness Product 0317,Health & Personal Care,Wellness,SUP088,601.01,781.84,135,730,Y
+SKU0318,Furniture Product 0318,Office Supplies,Furniture,SUP033,181.47,266.69,38,365,Y
+SKU0319,Printing Product 0319,Office Supplies,Printing,SUP054,3143.63,3813.79,186,1095,Y
+SKU0320,Storage Product 0320,Home & Kitchen,Storage,SUP094,3253.5,4234.87,65,730,Y
+SKU0321,Audio Product 0321,Electronics,Audio,SUP054,2695.27,3852.7,85,180,Y
+SKU0322,Stationery Product 0322,Office Supplies,Stationery,SUP069,3727.63,4776.48,204,1095,Y
+SKU0323,Cookware Product 0323,Home & Kitchen,Cookware,SUP091,3624.88,4424.58,170,1095,Y
+SKU0324,Maintenance Product 0324,Automotive,Maintenance,SUP098,5451.06,7783.96,104,1095,Y
+SKU0325,Personal Care Product 0325,Health & Personal Care,Personal Care,SUP050,777.58,980.03,220,1095,Y
+SKU0326,Smart Devices Product 0326,Electronics,Smart Devices,SUP042,1525.64,2000.21,206,1095,Y
+SKU0327,Furniture Product 0327,Office Supplies,Furniture,SUP020,5171.09,7609.52,426,540,Y
+SKU0328,Audio Product 0328,Electronics,Audio,SUP054,5523.11,6556.67,70,730,Y
+SKU0329,Wellness Product 0329,Health & Personal Care,Wellness,SUP092,6466.77,7944.45,56,730,Y
+SKU0330,Appliances Product 0330,Home & Kitchen,Appliances,SUP049,5684.1,6429.77,125,540,Y
+SKU0331,Stationery Product 0331,Office Supplies,Stationery,SUP035,5793.15,7305.52,141,365,Y
+SKU0332,Printing Product 0332,Office Supplies,Printing,SUP011,2098.11,2501.09,196,365,Y
+SKU0333,Appliances Product 0333,Home & Kitchen,Appliances,SUP039,2658.67,3628.59,102,1095,Y
+SKU0334,Electrical Product 0334,Automotive,Electrical,SUP024,1801.11,2134.81,216,1095,Y
+SKU0335,Maintenance Product 0335,Automotive,Maintenance,SUP098,3972.44,5414.17,151,1095,Y
+SKU0336,Furniture Product 0336,Office Supplies,Furniture,SUP053,6107.13,7419.25,30,540,Y
+SKU0337,Maintenance Product 0337,Automotive,Maintenance,SUP014,2292.59,2860.87,181,365,Y
+SKU0338,Personal Care Product 0338,Health & Personal Care,Personal Care,SUP007,3655.95,4553.81,144,730,Y
+SKU0339,Appliances Product 0339,Home & Kitchen,Appliances,SUP086,1982.24,2731.59,102,730,Y
+SKU0340,Stationery Product 0340,Office Supplies,Stationery,SUP094,1170.12,1507.05,120,1095,Y
+SKU0341,Accessories Product 0341,Electronics,Accessories,SUP077,1333.09,1666.45,164,1095,Y
+SKU0342,Maintenance Product 0342,Automotive,Maintenance,SUP013,452.01,644.99,153,1095,Y
+SKU0343,Furniture Product 0343,Office Supplies,Furniture,SUP010,6174.46,8186.73,142,1095,Y
+SKU0344,Storage Product 0344,Home & Kitchen,Storage,SUP020,2666.49,3191.73,115,1095,Y
+SKU0345,Accessories Product 0345,Electronics,Accessories,SUP076,5435.06,7848.41,79,730,Y
+SKU0346,Wellness Product 0346,Health & Personal Care,Wellness,SUP077,4454.14,5538.07,104,180,N
+SKU0347,Appliances Product 0347,Home & Kitchen,Appliances,SUP084,1312.13,1488.0,127,365,Y
+SKU0348,Electrical Product 0348,Automotive,Electrical,SUP010,1206.47,1566.07,484,540,Y
+SKU0349,Audio Product 0349,Electronics,Audio,SUP016,5292.96,6164.27,168,540,Y
+SKU0350,Grooming Product 0350,Health & Personal Care,Grooming,SUP091,1779.45,2145.75,145,365,Y
+SKU0351,Accessories Product 0351,Electronics,Accessories,SUP093,5943.29,8254.99,65,1095,Y
+SKU0352,Smart Devices Product 0352,Electronics,Smart Devices,SUP073,979.16,1142.75,127,365,Y
+SKU0353,Personal Care Product 0353,Health & Personal Care,Personal Care,SUP011,4430.89,6249.77,42,1095,Y
+SKU0354,Grooming Product 0354,Health & Personal Care,Grooming,SUP007,5308.92,7736.62,121,1095,Y
+SKU0355,Audio Product 0355,Electronics,Audio,SUP006,1590.35,2128.45,191,730,Y
+SKU0356,Furniture Product 0356,Office Supplies,Furniture,SUP070,1853.25,2549.57,199,1095,Y
+SKU0357,Maintenance Product 0357,Automotive,Maintenance,SUP085,6272.21,8636.15,171,540,Y
+SKU0358,Wellness Product 0358,Health & Personal Care,Wellness,SUP064,1778.72,2627.9,182,730,Y
+SKU0359,Cookware Product 0359,Home & Kitchen,Cookware,SUP027,2840.32,3530.39,29,365,Y
+SKU0360,Stationery Product 0360,Office Supplies,Stationery,SUP076,2856.75,3367.05,91,1095,Y
+SKU0361,Maintenance Product 0361,Automotive,Maintenance,SUP006,1704.48,2227.59,162,540,Y
+SKU0362,Electrical Product 0362,Automotive,Electrical,SUP083,5060.58,6639.33,195,540,Y
+SKU0363,Electrical Product 0363,Automotive,Electrical,SUP090,5035.27,5962.0,146,1095,Y
+SKU0364,Stationery Product 0364,Office Supplies,Stationery,SUP072,2508.8,3363.6,207,1095,Y
+SKU0365,Smart Devices Product 0365,Electronics,Smart Devices,SUP088,5441.51,6122.16,76,730,Y
+SKU0366,Wellness Product 0366,Health & Personal Care,Wellness,SUP059,1447.94,2105.25,49,730,Y
+SKU0367,Grooming Product 0367,Health & Personal Care,Grooming,SUP047,107.64,130.81,34,365,Y
+SKU0368,Accessories Product 0368,Automotive,Accessories,SUP033,3746.89,4249.88,146,1095,Y
+SKU0369,Audio Product 0369,Electronics,Audio,SUP093,6461.98,7489.24,164,540,Y
+SKU0370,Audio Product 0370,Electronics,Audio,SUP070,328.1,395.85,79,540,Y
+SKU0371,Accessories Product 0371,Automotive,Accessories,SUP020,1415.35,1724.75,191,365,Y
+SKU0372,Smart Devices Product 0372,Electronics,Smart Devices,SUP096,3411.43,3861.1,181,540,Y
+SKU0373,Wellness Product 0373,Health & Personal Care,Wellness,SUP006,5279.82,6444.38,96,540,Y
+SKU0374,Cookware Product 0374,Home & Kitchen,Cookware,SUP059,651.65,775.11,68,730,Y
+SKU0375,Electrical Product 0375,Automotive,Electrical,SUP020,2617.41,3288.26,182,365,Y
+SKU0376,Personal Care Product 0376,Health & Personal Care,Personal Care,SUP067,4876.23,6137.52,166,365,Y
+SKU0377,Storage Product 0377,Home & Kitchen,Storage,SUP042,2465.31,3062.02,53,730,Y
+SKU0378,Appliances Product 0378,Home & Kitchen,Appliances,SUP044,1292.33,1599.97,72,365,Y
+SKU0379,Printing Product 0379,Office Supplies,Printing,SUP068,1335.08,1538.42,124,1095,Y
+SKU0380,Furniture Product 0380,Office Supplies,Furniture,SUP076,2712.51,3062.62,130,1095,Y
+SKU0381,Appliances Product 0381,Home & Kitchen,Appliances,SUP039,3157.86,3766.57,52,730,Y
+SKU0382,Furniture Product 0382,Office Supplies,Furniture,SUP100,5612.85,7815.3,228,1095,Y
+SKU0383,Personal Care Product 0383,Health & Personal Care,Personal Care,SUP050,4203.26,6206.92,102,365,Y
+SKU0384,Furniture Product 0384,Office Supplies,Furniture,SUP017,4512.38,6562.22,100,180,Y
+SKU0385,Audio Product 0385,Electronics,Audio,SUP001,6390.78,8317.72,84,1095,Y
+SKU0386,Storage Product 0386,Home & Kitchen,Storage,SUP021,2724.03,3572.45,212,1095,Y
+SKU0387,Storage Product 0387,Home & Kitchen,Storage,SUP070,2669.54,3292.21,67,1095,Y
+SKU0388,Smart Devices Product 0388,Electronics,Smart Devices,SUP054,6007.89,8402.74,237,180,Y
+SKU0389,Smart Devices Product 0389,Electronics,Smart Devices,SUP034,1658.52,2314.15,504,1095,Y
+SKU0390,Electrical Product 0390,Automotive,Electrical,SUP049,4765.41,6785.65,211,540,Y
+SKU0391,Cookware Product 0391,Home & Kitchen,Cookware,SUP084,4924.36,7102.81,55,540,Y
+SKU0392,Wellness Product 0392,Health & Personal Care,Wellness,SUP058,707.8,903.41,104,365,Y
+SKU0393,Cookware Product 0393,Home & Kitchen,Cookware,SUP006,3086.05,4308.36,195,1095,Y
+SKU0394,Audio Product 0394,Electronics,Audio,SUP005,1367.61,1928.75,199,180,Y
+SKU0395,Maintenance Product 0395,Automotive,Maintenance,SUP049,1270.11,1563.56,137,1095,Y
+SKU0396,Grooming Product 0396,Health & Personal Care,Grooming,SUP041,3057.78,4447.62,22,730,Y
+SKU0397,Storage Product 0397,Home & Kitchen,Storage,SUP086,1938.14,2236.54,227,1095,Y
+SKU0398,Audio Product 0398,Electronics,Audio,SUP059,5190.71,7671.54,103,1095,Y
+SKU0399,Audio Product 0399,Electronics,Audio,SUP076,5906.82,8253.2,225,1095,Y
+SKU0400,Printing Product 0400,Office Supplies,Printing,SUP059,5233.47,6037.21,210,365,Y
+SKU0401,Stationery Product 0401,Office Supplies,Stationery,SUP035,1787.92,2424.85,206,180,Y
+SKU0402,Cookware Product 0402,Home & Kitchen,Cookware,SUP066,1839.94,2083.37,169,730,Y
+SKU0403,Smart Devices Product 0403,Electronics,Smart Devices,SUP063,1715.36,2396.82,166,540,Y
+SKU0404,Furniture Product 0404,Office Supplies,Furniture,SUP073,946.94,1333.03,134,365,Y
+SKU0405,Grooming Product 0405,Health & Personal Care,Grooming,SUP019,6139.19,8207.28,20,365,Y
+SKU0406,Printing Product 0406,Office Supplies,Printing,SUP065,2661.15,3801.37,102,540,Y
+SKU0407,Furniture Product 0407,Office Supplies,Furniture,SUP029,1522.51,1758.86,537,180,Y
+SKU0408,Smart Devices Product 0408,Electronics,Smart Devices,SUP080,5515.63,6725.39,197,180,Y
+SKU0409,Cookware Product 0409,Home & Kitchen,Cookware,SUP080,2642.83,3354.03,140,1095,Y
+SKU0410,Appliances Product 0410,Home & Kitchen,Appliances,SUP063,305.45,346.77,174,540,Y
+SKU0411,Maintenance Product 0411,Automotive,Maintenance,SUP095,1119.66,1434.69,19,1095,Y
+SKU0412,Wellness Product 0412,Health & Personal Care,Wellness,SUP054,4183.99,5085.54,120,1095,Y
+SKU0413,Personal Care Product 0413,Health & Personal Care,Personal Care,SUP003,5106.25,6440.95,129,365,Y
+SKU0414,Grooming Product 0414,Health & Personal Care,Grooming,SUP061,1434.2,1825.79,215,1095,Y
+SKU0415,Grooming Product 0415,Health & Personal Care,Grooming,SUP078,5969.68,8575.97,84,730,Y
+SKU0416,Grooming Product 0416,Health & Personal Care,Grooming,SUP011,5543.4,6748.11,66,1095,Y
+SKU0417,Accessories Product 0417,Electronics,Accessories,SUP011,5526.6,7967.96,94,365,Y
+SKU0418,Audio Product 0418,Electronics,Audio,SUP028,1541.58,1962.97,53,365,Y
+SKU0419,Appliances Product 0419,Home & Kitchen,Appliances,SUP085,404.44,500.7,140,180,Y
+SKU0420,Furniture Product 0420,Office Supplies,Furniture,SUP053,5648.86,7348.63,159,730,Y
+SKU0421,Audio Product 0421,Electronics,Audio,SUP098,2043.24,2595.71,195,1095,Y
+SKU0422,Personal Care Product 0422,Health & Personal Care,Personal Care,SUP088,4053.44,4915.42,233,1095,Y
+SKU0423,Stationery Product 0423,Office Supplies,Stationery,SUP056,4958.99,6451.47,31,1095,Y
+SKU0424,Printing Product 0424,Office Supplies,Printing,SUP068,903.64,1061.46,70,1095,Y
+SKU0425,Accessories Product 0425,Electronics,Accessories,SUP034,5092.98,6349.39,82,1095,Y
+SKU0426,Cookware Product 0426,Home & Kitchen,Cookware,SUP010,6105.24,8081.41,71,180,Y
+SKU0427,Audio Product 0427,Electronics,Audio,SUP040,4756.17,6034.76,201,1095,Y
+SKU0428,Grooming Product 0428,Health & Personal Care,Grooming,SUP060,2912.65,4126.08,46,540,Y
+SKU0429,Printing Product 0429,Office Supplies,Printing,SUP019,5708.27,6920.82,21,180,Y
+SKU0430,Accessories Product 0430,Automotive,Accessories,SUP023,3466.28,5092.37,208,730,Y
+SKU0431,Appliances Product 0431,Home & Kitchen,Appliances,SUP002,4861.43,6818.16,231,1095,Y
+SKU0432,Cookware Product 0432,Home & Kitchen,Cookware,SUP074,5347.65,7852.13,65,540,Y
+SKU0433,Appliances Product 0433,Home & Kitchen,Appliances,SUP090,4890.85,6953.46,89,730,Y
+SKU0434,Accessories Product 0434,Automotive,Accessories,SUP083,1928.03,2258.03,128,365,Y
+SKU0435,Maintenance Product 0435,Automotive,Maintenance,SUP038,836.56,1095.5,133,180,Y
+SKU0436,Accessories Product 0436,Electronics,Accessories,SUP060,1610.13,1901.87,237,365,Y
+SKU0437,Grooming Product 0437,Health & Personal Care,Grooming,SUP097,3308.46,4680.02,105,1095,Y
+SKU0438,Smart Devices Product 0438,Electronics,Smart Devices,SUP060,3323.88,4421.75,17,1095,Y
+SKU0439,Personal Care Product 0439,Health & Personal Care,Personal Care,SUP030,3820.58,4641.4,220,365,Y
+SKU0440,Audio Product 0440,Electronics,Audio,SUP034,2616.55,3806.18,140,540,Y
+SKU0441,Cookware Product 0441,Home & Kitchen,Cookware,SUP073,5131.84,5960.46,131,365,Y
+SKU0442,Wellness Product 0442,Health & Personal Care,Wellness,SUP045,5942.45,7861.8,130,180,Y
+SKU0443,Audio Product 0443,Electronics,Audio,SUP084,1663.97,2295.57,222,730,Y
+SKU0444,Appliances Product 0444,Home & Kitchen,Appliances,SUP087,4808.48,5487.37,196,1095,Y
+SKU0445,Cookware Product 0445,Home & Kitchen,Cookware,SUP004,4432.58,5918.51,71,730,Y
+SKU0446,Storage Product 0446,Home & Kitchen,Storage,SUP073,3438.24,4860.72,94,540,Y
+SKU0447,Electrical Product 0447,Automotive,Electrical,SUP037,1290.36,1476.57,165,730,Y
+SKU0448,Grooming Product 0448,Health & Personal Care,Grooming,SUP052,5185.39,6763.86,107,365,Y
+SKU0449,Personal Care Product 0449,Health & Personal Care,Personal Care,SUP027,6247.22,7578.38,111,365,Y
+SKU0450,Appliances Product 0450,Home & Kitchen,Appliances,SUP037,4714.19,6404.95,52,1095,Y
+SKU0451,Printing Product 0451,Office Supplies,Printing,SUP034,5972.66,6944.55,72,1095,Y
+SKU0452,Storage Product 0452,Home & Kitchen,Storage,SUP006,6398.47,9324.74,181,1095,Y
+SKU0453,Appliances Product 0453,Home & Kitchen,Appliances,SUP079,2340.17,3374.76,204,1095,Y
+SKU0454,Accessories Product 0454,Electronics,Accessories,SUP015,4177.4,4958.37,191,730,Y
+SKU0455,Personal Care Product 0455,Health & Personal Care,Personal Care,SUP038,3122.65,3860.77,84,1095,Y
+SKU0456,Grooming Product 0456,Health & Personal Care,Grooming,SUP020,6414.16,8540.77,45,730,Y
+SKU0457,Electrical Product 0457,Automotive,Electrical,SUP017,682.25,940.48,50,180,Y
+SKU0458,Printing Product 0458,Office Supplies,Printing,SUP038,2727.45,3489.38,103,180,Y
+SKU0459,Furniture Product 0459,Office Supplies,Furniture,SUP092,5700.96,6705.84,131,365,Y
+SKU0460,Stationery Product 0460,Office Supplies,Stationery,SUP095,1903.61,2203.42,215,365,Y
+SKU0461,Furniture Product 0461,Office Supplies,Furniture,SUP039,5137.63,7603.26,217,540,Y
+SKU0462,Appliances Product 0462,Home & Kitchen,Appliances,SUP051,2537.47,3257.93,15,1095,Y
+SKU0463,Accessories Product 0463,Electronics,Accessories,SUP099,6371.46,9137.38,174,1095,N
+SKU0464,Accessories Product 0464,Electronics,Accessories,SUP024,5752.26,7441.44,82,730,Y
+SKU0465,Grooming Product 0465,Health & Personal Care,Grooming,SUP095,2014.48,2925.12,59,365,Y
+SKU0466,Stationery Product 0466,Office Supplies,Stationery,SUP011,5024.64,5786.34,139,1095,Y
+SKU0467,Wellness Product 0467,Health & Personal Care,Wellness,SUP023,2242.62,2603.79,22,540,Y
+SKU0468,Smart Devices Product 0468,Electronics,Smart Devices,SUP034,3972.85,5779.18,180,180,Y
+SKU0469,Stationery Product 0469,Office Supplies,Stationery,SUP004,4307.45,6293.6,139,540,Y
+SKU0470,Audio Product 0470,Electronics,Audio,SUP082,5406.0,6667.21,76,540,Y
+SKU0471,Storage Product 0471,Home & Kitchen,Storage,SUP086,236.97,295.71,148,540,Y
+SKU0472,Audio Product 0472,Electronics,Audio,SUP039,1493.41,1915.87,236,1095,Y
+SKU0473,Accessories Product 0473,Electronics,Accessories,SUP084,4650.51,5905.3,194,1095,Y
+SKU0474,Wellness Product 0474,Health & Personal Care,Wellness,SUP078,3697.82,4394.55,55,1095,Y
+SKU0475,Appliances Product 0475,Home & Kitchen,Appliances,SUP081,3261.78,4708.1,27,365,Y
+SKU0476,Furniture Product 0476,Office Supplies,Furniture,SUP081,434.45,526.2,134,1095,Y
+SKU0477,Furniture Product 0477,Office Supplies,Furniture,SUP058,2315.93,3181.85,72,1095,Y
+SKU0478,Appliances Product 0478,Home & Kitchen,Appliances,SUP012,5633.94,6446.22,174,365,Y
+SKU0479,Stationery Product 0479,Office Supplies,Stationery,SUP093,278.33,315.61,35,730,Y
+SKU0480,Audio Product 0480,Electronics,Audio,SUP061,2625.12,3557.94,576,730,Y
+SKU0481,Grooming Product 0481,Health & Personal Care,Grooming,SUP091,6147.85,7635.91,237,730,Y
+SKU0482,Electrical Product 0482,Automotive,Electrical,SUP096,406.65,551.4,35,365,Y
+SKU0483,Accessories Product 0483,Automotive,Accessories,SUP019,4893.11,5645.9,82,730,Y
+SKU0484,Stationery Product 0484,Office Supplies,Stationery,SUP041,1733.87,2534.83,204,365,Y
+SKU0485,Accessories Product 0485,Electronics,Accessories,SUP020,5643.63,7841.63,135,365,Y
+SKU0486,Grooming Product 0486,Health & Personal Care,Grooming,SUP006,4869.76,6990.33,54,365,N
+SKU0487,Appliances Product 0487,Home & Kitchen,Appliances,SUP097,5766.23,6741.47,62,1095,Y
+SKU0488,Audio Product 0488,Electronics,Audio,SUP093,1466.24,1811.18,187,540,Y
+SKU0489,Cookware Product 0489,Home & Kitchen,Cookware,SUP094,3490.9,4372.71,208,540,Y
+SKU0490,Maintenance Product 0490,Automotive,Maintenance,SUP089,5082.91,6675.8,96,540,Y
+SKU0491,Furniture Product 0491,Office Supplies,Furniture,SUP065,1657.39,2033.41,121,1095,Y
+SKU0492,Accessories Product 0492,Automotive,Accessories,SUP053,1561.39,1782.84,573,730,Y
+SKU0493,Electrical Product 0493,Automotive,Electrical,SUP100,254.51,318.85,54,1095,Y
+SKU0494,Accessories Product 0494,Electronics,Accessories,SUP056,6233.67,7552.95,61,540,Y
+SKU0495,Grooming Product 0495,Health & Personal Care,Grooming,SUP065,4638.31,5839.32,189,365,Y
+SKU0496,Appliances Product 0496,Home & Kitchen,Appliances,SUP022,4160.3,4954.52,56,730,Y
+SKU0497,Printing Product 0497,Office Supplies,Printing,SUP075,4856.45,5897.1,188,540,Y
+SKU0498,Smart Devices Product 0498,Electronics,Smart Devices,SUP082,3492.95,4700.47,126,1095,Y
+SKU0499,Wellness Product 0499,Health & Personal Care,Wellness,SUP068,3136.78,3951.51,237,1095,Y
+SKU0500,Storage Product 0500,Home & Kitchen,Storage,SUP050,2966.0,3690.71,22,730,Y
