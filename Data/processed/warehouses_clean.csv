@@ -1,0 +1,7 @@
+warehouse_id,warehouse_name,city,region,capacity_units
+WH01,Bengaluru Central,Bengaluru,South,65000
+WH02,Mumbai West,Mumbai,West,55000
+WH03,Delhi NCR,Gurugram,North,60000
+WH04,Hyderabad South,Hyderabad,South,48000
+WH05,Chennai Hub,Chennai,South,50000
+WH06,Pune DC,Pune,West,45000
